@@ -13,3 +13,4 @@
 12. More directories
 13-change_group
 14. Owner and group
+101. Symbolic link permissions
