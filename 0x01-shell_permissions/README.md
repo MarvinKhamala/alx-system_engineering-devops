@@ -10,3 +10,4 @@
 9. John Doe
 10. Look into the mirror
 11-directories_permissions
+12. More directories
