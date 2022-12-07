@@ -9,3 +9,4 @@
 8. James Bond
 9. John Doe
 10. Look into the mirror
+11-directories_permissions
